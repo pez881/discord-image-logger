@@ -6,7 +6,7 @@ __How to use__ \
 2.Right click and copy link \
 3.Run Converter.exe \
 4.Paste the link. Ex: Link:<Image Link> \
-  \ 
+  \
 Now it will return a link that you can copy paste and the victims info will be sent to that webhook \
   \
   \

